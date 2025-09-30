@@ -46,11 +46,14 @@ Ser reconhecida globalmente como um laboratório criativo que dita tendências n
 
 ## 🏗️ Projetos em Destaque
 
-| Projeto       | Descrição breve                                  | Status    |
-| ------------- | ------------------------------------------------ | --------- |
-| **Projeto 1** | Solução X focada em performance e escalabilidade | 🔥 Ativo  |
-| **Projeto 2** | Plataforma Y com foco em acessibilidade digital  | ⚡ Beta    |
-| **Projeto 3** | Ferramenta Z com design futurista inovador       | 🚧 Em Dev |
+| Projeto                 | Descrição breve                                                       | Status      |
+| ----------------------- | --------------------------------------------------------------------- | ----------- |
+| **OpenEdu**             | Plataforma open-source para cursos e capacitação em tecnologia        | 🧩 Planejado |
+| **CollabHub**           | Espaço colaborativo para desenvolvedores contribuírem em projetos     | 🛠️ Conceito  |
+| **InovaLab**            | Laboratório de prototipagem rápida e testes de soluções inovadoras    | 🌱 Ideia     |
+| **Code4Impact**         | Projetos sociais com tecnologia para gerar impacto em comunidades    | 🎯 Planejado |
+| **DevMentorship**       | Programa de mentoria e formação de novos talentos na área de TI       | 📚 Em Roteiro |
+
 
 > Confira todos os repositórios na aba **Projetos**.
 
