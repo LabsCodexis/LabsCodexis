@@ -68,7 +68,9 @@ Ser reconhecida globalmente como um laboratório criativo que dita tendências n
 ## 🤝 Conecte-se Conosco
 
 <p align="center">
-<a href="mailto:labscodexis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=labscodexis@gmail.com&su=Contato%20LabsCodexis&body=Olá,%20quero%20saber%20mais%20sobre%20a%20empresa." target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://wa.me/55919854569545"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://instagram.com/labscodexis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://x.com/labscodexis"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
@@ -79,5 +81,5 @@ Ser reconhecida globalmente como um laboratório criativo que dita tendências n
 ---
 
 <h3 align="center">
-Criado e mantido com excelência por <b>Matheus Gonçalves</b> e a equipe LabsCodexis. ✨
+Criado com excelência por <b>Matheus Gonçalves</b> LabsCodexis. ✨
 </h3>
