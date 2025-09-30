@@ -2,10 +2,10 @@
 
 <p>
 <!-- Certifique-se de que o arquivo 'logoOficial.png' está na raiz do seu repositório! -->
-<img src="iconLogo.png" alt="LabsCodexis Logo" width="550" he/>
+
 </p>
 
-<h1 align="center">✨ LabsCodexis: Onde a Criatividade Encontra o Código</h1>
+<h1 align="center"> <img src="iconLogo.png" alt="LabsCodexis Logo" width="220" he/> LabsCodexis: Onde a Criatividade Encontra o Código</h1>
 <p align="center">
 Laboratório criativo de tecnologia, fundado por <b>Matheus Gonçalves</b>, dedicado a construir soluções digitais inovadoras, futuristas e acessíveis.
 
