@@ -4,7 +4,7 @@ HEADER & LOGO: Início e Identidade Visual
 
 <p align="center">
 <!-- Certifique-se de que 'logoOficial.jpg' está na raiz do seu repositório! -->
-<img src="logoicon.jpg" alt="LabsCodexis Logo" width="280"/>
+<img src="logoicon.png" alt="LabsCodexis Logo" width="300"/>
 </p>
 
 <h1 align="center">
