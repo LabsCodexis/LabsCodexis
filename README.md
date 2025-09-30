@@ -2,7 +2,7 @@
 
 <p>
 <!-- Certifique-se de que o arquivo 'logoOficial.png' está na raiz do seu repositório! -->
-<img src="logoOficial.png" alt="LabsCodexis Logo" width="220"/>
+<img src="logoOficial.png" alt="LabsCodexis Logo" width="550" he/>
 </p>
 
 <h1 align="center">✨ LabsCodexis: Onde a Criatividade Encontra o Código</h1>
